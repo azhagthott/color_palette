@@ -1,5 +1,5 @@
 ## Color Palette
-Colors in material design, is a simply XML file
+Android Colors in Material Design, is a simply XML file
 
 example:
 **Deep Purple 500**
